@@ -1,1 +1,1 @@
-# Power BI Project Portfolio
+# Power BI Training Project Portfolio
